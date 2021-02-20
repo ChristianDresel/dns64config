@@ -4,3 +4,7 @@
     dns64 2a0b:f4c0:4d:2::/96  {
 		clients { any; };
 	};
+    dns64 2a0b:f4c0:4d:3::/96  {
+		clients { any; };
+	};
+
